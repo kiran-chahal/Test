@@ -7,6 +7,7 @@ package kau12455;
 
 import java.util.Scanner;
 
+//hello
 public class Inventory {
 	Scanner input = new Scanner(System.in);
 	private String id = "ABC-1234";
