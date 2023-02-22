@@ -7,6 +7,7 @@ package kau12455;
 
 import java.util.Scanner;
 
+//21st feb
 //hello
 public class Inventory {
 	Scanner input = new Scanner(System.in);
