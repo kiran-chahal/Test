@@ -1,6 +1,5 @@
 /*Assignment_1-Inventory class
 Kiranjot Kaur
-991669735
 */
 
 package kau12455;
